@@ -1,1 +1,1 @@
-# CookieOS-Updater
+# CookieOS OOBE
